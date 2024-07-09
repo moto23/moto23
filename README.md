@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://media.licdn.com/dms/image/D4D16AQGJ9k9raSzOug/profile-displaybackgroundimage-shrink_350_1400/0/1673964659070?e=1723680000&v=beta&t=sIHyIoUSBkQJQrl414h8K6vFL8pypYZytsbMbZZ94yM)
+![logo](https://repository-images.githubusercontent.com/6720403/7b831900-68c4-11eb-9c0b-746413f85cc6)
 <h1 align="center">Hi 👋, I'm Prasad Nathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working on [Playquest(Gamified learning Platform) by Yantrikisoft](https://kgamify.in/teacheradminpanel/example/index.php)
 
+- ✍️ My Resume Link - [https://drive.google.com/file/d/1-MJ-o10d72w6JvtmW6GNU1i28N-_QaRh/view](https://drive.google.com/file/d/1-MJ-o10d72w6JvtmW6GNU1i28N-_QaRh/view)
+
 - 🌱 I’m currently learning **React,AI,ML,MYSQL,MONGODB,PhP,Java,Python,NEXTjs**
 
-- 👯 I’m looking to collaborate on **Mern Stack projects**
+- 👯 I’m looking to collaborate on **Full Stack Development projects**
 
 - 👨‍💻 All of my projects are available at [https://moto23.github.io/myportfolio/](https://moto23.github.io/myportfolio/)
 
