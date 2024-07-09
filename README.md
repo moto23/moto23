@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://cdn.freebiesupply.com/logos/thumbs/2x/github-2-logo.png)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwLTVVljw19zE8EVH4Ix7_Ea8xgUaqD3x7IWH6JborEZD6TZJMv0cUJ7M-Rxrf5uYvjo&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Prasad Nathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
