@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwLTVVljw19zE8EVH4Ix7_Ea8xgUaqD3x7IWH6JborEZD6TZJMv0cUJ7M-Rxrf5uYvjo&usqp=CAU)
+![logo](https://media.licdn.com/dms/image/D4D16AQGB4SUNE17teA/profile-displaybackgroundimage-shrink_350_1400/0/1718947584790?e=1726099200&v=beta&t=YZjVY-7JSFNiT_-H-kmelGFNQCslZe7E5VVy41U93kQ)
 <h1 align="center">Hi 👋, I'm Prasad Nathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
