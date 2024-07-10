@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![logo](https://media.licdn.com/dms/image/D4D16AQGB4SUNE17teA/profile-displaybackgroundimage-shrink_350_1400/0/1718947584790?e=1726099200&v=beta&t=YZjVY-7JSFNiT_-H-kmelGFNQCslZe7E5VVy41U93kQ)
 <h1 align="center">Hi 👋, I'm Prasad Nathe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" alt="moto23" /> </p>
 
