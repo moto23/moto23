@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **prasadnathe2018@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aTuOUnIscdb93Bk4uHpQqdPtDveJWJiH/view](https://drive.google.com/file/d/1aTuOUnIscdb93Bk4uHpQqdPtDveJWJiH/view)
-
 - ⚡ Fun fact **The term “bug” to describe a glitch in a system originated when a moth caused a malfunction in an early computer.**
 
 <h3 align="left">Connect with me:</h3>
