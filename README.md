@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://media.licdn.com/dms/image/D4D16AQGB4SUNE17teA/profile-displaybackgroundimage-shrink_350_1400/0/1718947584790?e=1726099200&v=beta&t=YZjVY-7JSFNiT_-H-kmelGFNQCslZe7E5VVy41U93kQ)
+![logo](https://media.licdn.com/dms/image/D5612AQHCk3rDfH9W2w/article-cover_image-shrink_720_1280/0/1695023907274?e=2147483647&v=beta&t=BbP3VD0ykfk8cz2St8HaouU2S_GVQMLUlh8xy12swOI)
 <h1 align="center">Hi 👋, I'm Prasad Nathe</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
