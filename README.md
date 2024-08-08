@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Playquest(Gamified learning Platform) by Yantrikisoft](https://kgamify.in/teacheradminpanel/example/index.php)
 
-- ✍ My Resume Link - [https://drive.google.com/file/d/1FyebOIjg0HztaTaVMVV6k-LUbG57-Hth/view?usp=sharing](https://drive.google.com/file/d/1FyebOIjg0HztaTaVMVV6k-LUbG57-Hth/view?usp=sharing)
+- ✍ My Resume Link - [https://drive.google.com/file/d/1XqKYlPUx0lF_6IfnEgvgvldzkA8jmLlD/view?usp=sharing](https://drive.google.com/file/d/1XqKYlPUx0lF_6IfnEgvgvldzkA8jmLlD/view?usp=sharing)
 
 - 🌱 I’m currently learning **React,AI,ML,MYSQL,MONGODB,PhP,Java,Python,NEXTjs**
 
