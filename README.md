@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Playquest(Gamified learning Platform) by Yantrikisoft](https://kgamify.in/teacheradminpanel/example/index.php)
 
-- ✍ My Resume Link - [https://drive.google.com/file/d/1TT6O-op09PUzHtQXquPj1AuKK5V1jn4b/view?usp=sharing](https://drive.google.com/file/d/1TT6O-op09PUzHtQXquPj1AuKK5V1jn4b/view?usp=sharing)
-
 - 🌱 I’m currently learning **React,AI,ML,MYSQL,MONGODB,PhP,Java,Python,NEXTjs**
 
 - 👯 I’m looking to collaborate on **Full Stack Development projects**
