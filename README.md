@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moto23" alt="moto23" /></a> </p>
 
-- 🔭 I’m currently working on [Playquest(Gamified learning Platform) by Yantrikisoft](https://kgamify.in/teacheradminpanel/example/index.php)
+- 🔭 I’m currently working on [Kgamify(Gamified learning Platform) by Yantrikisoft](https://kgamify.in/teacheradminpanel/example/index.php)
 
 - 🌱 I’m currently learning **React,AI,ML,MYSQL,MONGODB,PhP,Java,Python,NEXTjs**
 
